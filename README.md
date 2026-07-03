@@ -13,3 +13,7 @@
 [ASCII on Babylon.js (Version 2 - ASCII to symbols art more arts preload ASCII) | Babylon.js Playground](https://playground.babylonjs.com/#J74QUT)
 
 Мы сделаем посимвольную загрузку символов.
+
+[ASCII on Babylon.js (Version 3 - ASCII to symbols art more arts chunks load) | Babylon.js Playground](https://playground.babylonjs.com/#ZKKVZF)
+
+Отлично теперь сделаем почанковую загрузку.
