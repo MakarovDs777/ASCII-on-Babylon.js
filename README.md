@@ -14,6 +14,8 @@
 
 Мы сделаем посимвольную загрузку символов.
 
-[ASCII on Babylon.js (Version 3 - ASCII to symbols art more arts chunks load) | Babylon.js Playground](https://playground.babylonjs.com/#ZKKVZF)
+[ASCII on Babylon.js (Version 3 - ASCII to symbols art chunks load) | Babylon.js Playground](https://playground.babylonjs.com/#ZKKVZF#1)
 
-Отлично теперь сделаем почанковую загрузку.
+Отлично теперь сделаем почанковую загрузку, и множество картинок ASCII а не одну.
+
+[ASCII on Babylon.js (Version 4 - ASCII to symbols more arts chunks load) | Babylon.js Playground](https://playground.babylonjs.com/#VRR7DS)
