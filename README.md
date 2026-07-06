@@ -23,3 +23,7 @@
 Теперь заменим символы ASCII на плоскости цветные.
 
 [ASCII on Babylon.js (Version 5 - ASCII planes image) | Babylon.js Playground](https://playground.babylonjs.com/#3TL7HG)
+
+Много сделаем кратинок и переключатели между ними.
+
+[ASCII on Babylon.js (Version 6 - ASCII planes more images) | Babylon.js Playground](https://playground.babylonjs.com/#X3QJY5)
