@@ -19,3 +19,7 @@
 Отлично теперь сделаем почанковую загрузку, и множество картинок ASCII а не одну.
 
 [ASCII on Babylon.js (Version 4 - ASCII to symbols more arts chunks load) | Babylon.js Playground](https://playground.babylonjs.com/#VRR7DS)
+
+Теперь заменим символы ASCII на плоскости цветные.
+
+[ASCII on Babylon.js (Version 5 - ASCII planes image) | Babylon.js Playground](https://playground.babylonjs.com/#3TL7HG)
