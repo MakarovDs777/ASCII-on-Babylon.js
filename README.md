@@ -30,4 +30,4 @@
 
 И переключения на случайные картинки ASCII.
 
-[ASCII on Babylon.js (Version 7 - ASCII Randomaizer) | Babylon.js Playground](https://playground.babylonjs.com/#NGK973)
+[ASCII on Babylon.js (Version 7 - ASCII Randomaizer) | Babylon.js Playground](https://playground.babylonjs.com/#NGK973#1)
