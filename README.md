@@ -27,3 +27,7 @@
 Много сделаем кратинок и переключатели между ними.
 
 [ASCII on Babylon.js (Version 6 - ASCII planes more images) | Babylon.js Playground](https://playground.babylonjs.com/#X3QJY5)
+
+И переключения на случайные картинки ASCII.
+
+[ASCII on Babylon.js (Version 7 - ASCII Randomaizer) | Babylon.js Playground](https://playground.babylonjs.com/#NGK973)
