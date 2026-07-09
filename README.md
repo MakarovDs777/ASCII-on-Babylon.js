@@ -31,3 +31,7 @@
 И переключения на случайные картинки ASCII.
 
 [ASCII on Babylon.js (Version 7 - ASCII Randomaizer) | Babylon.js Playground](https://playground.babylonjs.com/#NGK973#1)
+
+СДЕЛАЕМ ASCII КУБ.
+
+[ASCII on Babylon.js (Version 8 - ASCII cube 3D) | Babylon.js Playground](https://playground.babylonjs.com/#IOR8V5)
