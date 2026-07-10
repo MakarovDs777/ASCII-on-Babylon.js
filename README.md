@@ -38,7 +38,7 @@
 
 Сделаем кубик рубик ASCII.
 
-[ASCII on Babylon.js (Version 9 - ASCII cubik Rubik 3D) | Babylon.js Playground](https://playground.babylonjs.com/#O1DU4L#1)
+[ASCII on Babylon.js (Version 9 - ASCII cubik Rubik 3D Glitch version) | Babylon.js Playground](https://playground.babylonjs.com/#O1DU4L#1)
 
 Теперь сделаем нормальным его.
 
