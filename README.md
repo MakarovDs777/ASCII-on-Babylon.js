@@ -35,3 +35,7 @@
 СДЕЛАЕМ ASCII КУБ.
 
 [ASCII on Babylon.js (Version 8 - ASCII cube 3D) | Babylon.js Playground](https://playground.babylonjs.com/#IOR8V5#2)
+
+Сделаем кубик рубик ASCII.
+
+[ASCII on Babylon.js (Version 9 - ASCII cubik Rubik 3D) | Babylon.js Playground](https://playground.babylonjs.com/#O1DU4L)
