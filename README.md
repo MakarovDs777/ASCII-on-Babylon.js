@@ -46,4 +46,4 @@
 
 И для 9 версии без стыков.
 
-[ASCII on Babylon.js (Version 11 - ASCII cubik Rubik 3D The version without joints) | Babylon.js Playground](https://playground.babylonjs.com/#2KNX4U)
+[ASCII on Babylon.js (Version 11 - ASCII cubik Rubik 3D The version without joints) | Babylon.js Playground](https://playground.babylonjs.com/#2KNX4U#1)
