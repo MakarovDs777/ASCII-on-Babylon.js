@@ -51,3 +51,7 @@
 Отлично теперь нужно сжать одинаковые последовательности символов в формате количество одинаквовых символов, и сам символ.
 
 [ASCII on Babylon.js (Version 12 - ASCII + RLE color planes image) | Babylon.js Playground](https://playground.babylonjs.com/#971PUT)
+
+Ну и сделаем RLE ASCII для множества картинок а не одной.
+
+[ASCII on Babylon.js (Version 13 - ASCII + RLE color planes more images) | Babylon.js Playground](https://playground.babylonjs.com/#6UKXFI)
