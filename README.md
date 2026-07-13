@@ -1,10 +1,10 @@
 # ASCII-on-Babylon.js
 
-В [babylon.search](https://doc.babylonjs.com/playground/?q=ASCII&type=name) я нашел только ASCII шейдеры, и всё. А мне нужна картинка из ASCII в 3D.
+В [babylon.search](https://doc.babylonjs.com/playground/?q=ASCII&type=name) я нашел только ASCII шейдеры, и всё, и но мне ненужны шейдеры ASCII.
 
 [ASCII on Babylon.js (Version 0 - ASCII to symbols art) | Babylon.js Playground](https://playground.babylonjs.com/#7Q0HY0)
 
-Но мне ненужны шейдеры ASCII.
+Мне нужна картинка из ASCII в 3D.
 
 [ASCII on Babylon.js (Version 1 - ASCII to symbols art more arts) | Babylon.js Playground](https://playground.babylonjs.com/#JY3PCW)
 
@@ -47,3 +47,7 @@
 И для 9 версии без стыков.
 
 [ASCII on Babylon.js (Version 11 - ASCII cubik Rubik 3D The version without joints) | Babylon.js Playground](https://playground.babylonjs.com/#2KNX4U#1)
+
+Отлично теперь нужно сжать одинаковые последовательности символов в формате количество одинаквовых символов, и сам символ.
+
+[ASCII on Babylon.js (Version 12 - ASCII + RLE color planes image) | Babylon.js Playground](https://playground.babylonjs.com/#971PUT)
